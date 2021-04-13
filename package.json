@@ -12,7 +12,7 @@
     "name": "angular-development",
     "displayName": "Angular Development Extension Pack",
     "description": "Extensions related to angular development",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.55.0"
     },
@@ -36,6 +36,7 @@
         "fknop.vscode-npm",
         "christian-kohler.npm-intellisense",
         "visualstudioexptteam.vscodeintellicode",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "adrianwilczynski.switcher"
     ]
 }
