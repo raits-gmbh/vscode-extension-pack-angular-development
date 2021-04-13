@@ -1,16 +1,13 @@
-# README
+# VS Code extension pack "angular-development"
 
-## This is the README for your extension pack "angular-development"
+[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/raits.angular-development.svg)](https://marketplace.visualstudio.com/items?itemName=raits.angular-development)
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/raits.angular-development.svg)](https://marketplace.visualstudio.com/items?itemName=raits.angular-development)
+[![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/raits.angular-development.svg)](https://marketplace.visualstudio.com/items?itemName=raits.angular-development&ssr=false#review-details)
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+[![GitHub issues open](https://img.shields.io/github/issues-raw/raits-gmbh/vscode-extension-pack-angular-development.svg?logo=github)](https://github.com/raits-gmbh/vscode-extension-pack-angular-development/issues)
+[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/raits-gmbh/vscode-extension-pack-angular-development.svg?logo=github)](https://github.com/raits-gmbh/vscode-extension-pack-angular-development/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/raits-gmbh/vscode-extension-pack-angular-development.svg?logo=github)](https://github.com/raits-gmbh/vscode-extension-pack-angular-development/pulls)
+[![GitHub last commit](https://img.shields.io/github/last-commit/raits-gmbh/vscode-extension-pack-angular-development.svg?logo=github)](https://github.com/raits-gmbh/vscode-extension-pack-angular-development)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Provides extensions related to angular development
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
