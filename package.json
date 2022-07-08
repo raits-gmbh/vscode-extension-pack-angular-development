@@ -6,13 +6,18 @@
     },
     "publisher": "raits",
     "repository": {
+		"type": "git",
         "url": "https://github.com/raits-gmbh/vscode-extension-pack-angular-development"
+    },
+    "bugs": {
+        "url": "https://github.com/raits-gmbh/vscode-extension-pack-angular-development/issues"
     },
     "license": "MIT",
     "name": "angular-development",
     "displayName": "Angular Development Extension Pack",
     "description": "Extensions related to angular development",
-    "version": "0.0.4",
+    "version": "0.0.5",
+	"homepage": "https://github.com/raits-gmbh/vscode-extension-pack-angular-development",
     "engines": {
         "vscode": "^1.55.0"
     },
@@ -20,24 +25,56 @@
         "Extension Packs"
     ],
     "keywords": [
-      "raits"
+      "raits",
+	  "angular",
+	  "angular material",
+	  "test",
+	  "html",
+	  "javascript",
+	  "typescript",
+	  "karma",
+	  "mocha",
+	  "jasmine",
+	  "jest",
+	  "prettier",
+	  "template",
+	  "intellisense",
+	  "node",
+	  "nodejs",
+	  "rxjs",
+	  "coverage",
+	  "npm"
     ],
     "extensionPack": [ 
         "mikael.angular-beastcode",
         "angular.ng-template",
-        "CoenraadS.bracket-pair-colorizer",
-        "raagh.angular-karma-test-explorer",
+        "lucono.karma-test-explorer",
         "formulahendry.auto-close-tag",
         "formulahendry.auto-rename-tag",
         "kavod-io.vscode-jest-test-adapter",
         "hbenl.vscode-jasmine-test-adapter",
         "hbenl.vscode-mocha-test-adapter",
-        "eg2.vscode-npm-script",
         "fknop.vscode-npm",
         "christian-kohler.npm-intellisense",
         "visualstudioexptteam.vscodeintellicode",
         "esbenp.prettier-vscode",
         "adrianwilczynski.switcher",
-        "meganrogge.template-string-converter"
+        "meganrogge.template-string-converter",
+		"cyrilletuzi.angular-schematics",
+		"john-crowson.angular-file-changer",
+		"mattpocock.ts-error-translator",
+		"Orta.vscode-jest",
+		"firsttris.vscode-jest-runner",
+		"andys8.jest-snippets",
+		"dbaeumer.vscode-eslint",
+		"manuelalabor.rxjs-debugging-for-vs-code",
+		"Wilson-Godoi.wg-getters-and-setters",
+		"sburg.vscode-javascript-booster",
+		"MikeCann.ts-namespace-imports",
+		"markis.code-coverage",
+		"alexeynobody.javascript-test-runner-reloaded",
+		"johnpapa.Angular2",
+		"natewallace.angular2-inline",
+		"howardzuo.vscode-npm-dependency"
     ]
 }
